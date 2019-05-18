@@ -1,0 +1,6 @@
+flask
+gunicorn
+pyTelegramBotAPI
+beautifulsoup4
+vk
+vedis
